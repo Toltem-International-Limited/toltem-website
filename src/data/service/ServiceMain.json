@@ -1,0 +1,243 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Network Security",
+        "case": "IT Consultancy",
+        "description": "Network security is a set of rules and configurations that use both software and hardware to protect the integrity, confidentiality, and accessibility of computer networks and data."
+    },
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Software Support",
+        "case": "IT Consultancy",
+        "description": "Software support is a service provided that deliver technical product, help and advice to registered users."
+    },
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Data Storage",
+        "case": "IT Consultancy",
+        "description": "Data storage helps to retain data and automatically retrieve it while digital file is damaged or lost."
+    },
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Managed IT Service",
+        "case": "IT Consultancy",
+        "description": "Implementing and delivering IT services to meet the needs of an organization, which include monitoring and maintenance of equipment, IT systems management, network monitoring."
+    },
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Database Management",
+        "case": "IT Consultancy",
+        "description": "Databases can be used to organize information so that it is simple to access, manage, and update. Your company needs database systems because they transmit data about your sales transactions, product inventory, customer profiles, and marketing initiatives."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Human Resource Management",
+        "case": "Enterprise Solutions",
+        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Customer Relationship Management",
+        "case": "Enterprise Solutions",
+        "description": "We help you keep your brand identity and operations intact while avoiding the need to invest in physical infrastructure using enterprise solutions. It helps businesses scale up their profits. It can be used for both the private and public sector."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Enterprise Resource Planning",
+        "case": "Enterprise Solutions",
+        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Institutions Training",
+        "case": "Trainings",
+        "description": "With the present situation around the world today, it has become imperative to involve school children in extra curriculum activities to enhance their knowledge in various vocational skills. We have designed a package for institutions to easily boost the knowledge of their students in ICT and standout in the competitive world. We run regular courses throughout the year, we can even bring our training course to your premises to save travel costs and downtime for your technicians."
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Corporate Training",
+        "case": "Trainings",
+        "description": "Being a technical expert is an impressive qualification for an employee because it shows you're skilled, motivated and knowledgeable about technology. Becoming a technical expert requires a significant amount of professional education and experience. If you're interested in becoming a technical expert, it's important you take a bold step to take part in our ICT course."
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Individual Training",
+        "case": "Trainings",
+        "description": "There are very few jobs these days that do not require some combination of technology skills. It is almost impossible to function in the 21st century without a basic knowledge of how technology works. Whether you need to learn the tools for working in an office or have been wanting to learn how to create a website for your new business, Toltem International has a course or series of courses to help you reach your goals."
+    },
+    {
+        "image": "/images/icon/icon-5.png",
+        "title": "Solar Procurement & Installation",
+        "case": "Procurement",
+        "list1": {
+            "title": "Our Solar Procurement Solutions at a Glance",
+            "data": [
+                "Solar Bill of Materials development for module manufacturers, project developers",
+                "Bidding / Tendering proposal development",
+                "PV material demand analysis and planning solutions",
+                "Supplier diversification strategy development and execution",
+                "Supplier and buyer contract management",
+                "Export compliance and solar trade tariff mitigation strategies",
+                "Material pricing and payment terms negotiation (see Supply Chain Finance page)"
+            ]
+        },
+        "description": "Solar procurement has an increasingly critical role to play in terms of increasing supply chain resiliency, accessing supplier innovation, and delivering enterprise-wide cost reductions. Leveraging Toltem International LTD long-standing partnerships and material allocation agreements with many of the PV sector’s most important material suppliers, our solar procurement team is focused on creating differentiated value for manufacturers, EPCs and solar project developers around the world."
+    },
+    {
+        "image": "/images/icon/icon-5.png",
+        "title": "CCTV Equipment and Maintenance",
+        "case": "Procurement",
+        "description": "CCTV helps you to manage, maintain and protect your site and provides many benefits such as lowering security costs, supporting in-house security, supporting in legal challenge cases and by providing a vandalism deterrent."
+    },
+    {
+        "image": "/images/icon/icon-5.png",
+        "title": "Procurement of ICT Equipment",
+        "case": "Procurement",
+        "description": "We help organizations and individual in the procurement process of ICT equipment’s, such as Computer systems and accessories, computer software’s among others. Be free to contact us today."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Development",
+        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+    },
+    {
+        "image": "/images/icon/icon-6.png",
+        "title": "Content strategy",
+        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+    },
+
+    {
+        "image": "/images/icon/icon-29.png",
+        "title": "Logo & Branding",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Website Design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-28.png",
+        "title": "Mobile app design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Graphic/print design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-30.png",
+        "title": "Video production",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+
+    {
+        "image": "/images/icon/icon-31.png",
+        "title": "Content Managment",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-32.png",
+        "title": "Mobile app development",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-33.png",
+        "title": "eCommerce",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-34.png",
+        "title": "SEO",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-35.png",
+        "title": "Pay-per click",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-36.png",
+        "title": "Email marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-37.png",
+        "title": "Display marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-38.png",
+        "title": "Social Media marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-39.png",
+        "title": "Digital strategy",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-40.png",
+        "title": "Business consulting",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-41.png",
+        "title": "Content writing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-42.png",
+        "title": "Reporting",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-43.png",
+        "title": "Hosting",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-44.png",
+        "title": "Big data analysis",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-45.png",
+        "title": "Web Audit Practices",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Content strategy"
+    },
+    {
+        "image": "/images/icon/icon-46.png",
+        "title": "Marketing Flexibility",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Content strategy"
+    },
+    {
+        "image": "/images/icon/icon-47.png",
+        "title": "Advertising Strategy",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Content strategy"
+    }
+    
+]

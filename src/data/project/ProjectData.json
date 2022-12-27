@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "image": "/images/toltem/eCommerce.jpeg",
+        "title": "E-Commerce",
+        "category": ["Mobile Applications", "Web Applications"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 3,
+        "image": "/images/toltem/invoice-app.jpeg",
+        "title": "Invocing App",
+        "category": ["Mobile Applications", "Web Applications"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 4,
+        "image": "/images/toltem/business-book-keeping.jpeg",
+        "title": "Business Book Keeping",
+        "category": ["Mobile Applications", "Web Applications"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 5,
+        "image": "/images/toltem/revenue-collector.jpeg",
+        "title": "Revenue Collector",
+        "category": ["Mobile Applications", "Web Applications", "FinTech Solutions"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 7,
+        "image": "/images/toltem/utilitiy-bills-payment.jpeg",
+        "title": "Utility Bills Payment",
+        "category": ["FinTech Solutions","Mobile Applications", "Web Applications"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 8,
+        "image": "/images/toltem/funds-transfer.jpeg",
+        "title": "Funds Transfer",
+        "category": ["FinTech Solutions","Mobile Applications", "Web Applications"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 9,
+        "image": "/images/toltem/account-manager.jpeg",
+        "title": "Accounting Management Software",
+        "category": ["ERP Solutions"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 10,
+        "image": "/images/toltem/hr-manager.jpeg",
+        "title": "HRM Software",
+        "category": ["ERP Solutions"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 11,
+        "image": "/images/toltem/school-portal.jpeg",
+        "title": "School Portal",
+        "category": ["Mobile Applications", "Web Applications", "ERP Solutions"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 12,
+        "image": "/images/toltem/hospital-manager.jpeg",
+        "title": "Hospital Automation Software",
+        "category": ["ERP Solutions", "Web Applications"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 13,
+        "image": "/images/toltem/hotel-management.jpeg",
+        "title": "Hotel Managent Software",
+        "category": ["ERP Solutions", "Web Applications"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 15,
+        "image": "/images/toltem/payroll-management.jpeg",
+        "title": "Payroll Management",
+        "category": ["ERP Solutions", "Web Applications"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    }
+]
